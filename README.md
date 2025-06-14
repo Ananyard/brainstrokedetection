@@ -1,3 +1,4 @@
+ HEAD
 ![Project](https://github.com/shivamBasak/Brain-Stroke-Classification/blob/main/ex.112.png)
 # Brain-Stroke-Detection (Using Deep Learning)
 
@@ -53,5 +54,9 @@ Here are three potential future directions for the "Brain Stroke Image Detection
 Addressing these challenges systematically will contribute to the successful development and deployment of this brain stroke image classification system using Flask, OpenCV, TensorFlow, Scikit-learn, Matplot, Seaborn and Keras.
 
 
-## Made by [Shivam Basak](https://port-folio-git-main-shivambasak.vercel.app/), [Riddhith Banerjee](https://www.linkedin.com/in/banerjeeriddhith/), [Anupam Kumar Ram](https://www.linkedin.com/in/anupam-ram),  [Kuntal Mondal](https://www.linkedin.com/in/kuntal-mondal-b9337721b)
+## Made by [Ananya R d](https://www.linkedin.com/in/ananya-rd-a2057b229), [Aditi Tukaram Keni](https://www.linkedin.com/in/aditi-keni), [Mukesh K](https://www.linkedin.com/in/mukesh-k-89760a229)
 
+
+# brainstrokedetection
+This project uses Convolutional Neural Networks (CNNs) to detect brain strokes from medical images such as MRI or CT scans. The goal is to automate the diagnosis process and assist medical professionals in early and accurate stroke detection.
+ 7eed7c049af85e1f1c089e3d0e9259308d32c2e0
